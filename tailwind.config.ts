@@ -10,6 +10,7 @@ export default {
         secondary: "#B7A97E",
         secondaryDark: "#B08F6A",
         dark: "#5B4B34",
+        colorText: "#D0FAF7",
       },
       fontFamily: {
         sans: [

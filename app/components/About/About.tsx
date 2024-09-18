@@ -4,7 +4,7 @@ import Person from "~/assets/person.png";
 const About = () => {
   return (
     <>
-      <div className="px-10">
+      <div className="px-10  bg-gray-50">
         <div className="container mx-auto py-40 flex flex-col-reverse lg:flex-row items-center gap-20">
           <div className="relative">
             <img
@@ -25,7 +25,7 @@ const About = () => {
           </div>
 
           <div className="my-auto flex flex-col gap-3">
-            <h1 data-aos="fade" className="text-indigo-700 font-bold">
+            <h1 data-aos="fade" className="text-primary font-bold">
               ABOUT ME
             </h1>
             <h1

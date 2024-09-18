@@ -36,7 +36,7 @@ export default function Index() {
     <div className="overflow-x-hidden">
       <Navbar />
       <Hero />
-      <Banner />
+      {/* <Banner /> */}
       <Dishes setShowPopup={setShowPopup} />
       <WhyChoose />
       <About />

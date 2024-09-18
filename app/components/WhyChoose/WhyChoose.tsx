@@ -3,7 +3,7 @@ import { FaBus } from "react-icons/fa";
 const WhyChoose = () => {
   return (
     <>
-      <div className="py-14 md:py-28 bg-gray-50">
+      <div className="py-14 md:py-28 ">
         <div className="container">
           <h1
             data-aos="fade"

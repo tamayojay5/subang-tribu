@@ -45,8 +45,12 @@ const Navbar = () => {
     <>
       <div data-aos="fade" className="bg-white shadow-md">
         <div className="container flex justify-between py-4 sm:py-3">
-          <div className="font-bold text-3xl ">
-            <img src={Logo} alt="" style={{ height: "50px", width: "50px" }} />
+          <div className="flex items-center font-bold text-3xl">
+            <img
+              src={Logo}
+              alt="Logo"
+              style={{ height: "50px", width: "50px" }}
+            />
           </div>
 
           <div>
